@@ -1,0 +1,39 @@
+body{
+
+    margin:0;
+
+    background:#f3f5f7;
+
+    font-family:'맑은 고딕',sans-serif;
+
+}
+
+.container{
+
+    max-width:1200px;
+
+    margin:40px auto;
+
+    padding:20px;
+
+}
+
+h1{
+
+    text-align:center;
+
+    margin-bottom:30px;
+
+}
+
+#calendar{
+
+    background:white;
+
+    border-radius:12px;
+
+    padding:20px;
+
+    box-shadow:0 2px 12px rgba(0,0,0,.1);
+
+}
